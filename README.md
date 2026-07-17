@@ -22,7 +22,7 @@ Backend-focused engineer with production experience shipping scalable APIs, real
 - 🔭 Currently an **SDE-1 (Full-Stack)** at **Paysecure**, Jaipur — building payment backends and ML-driven fraud detection.
 - 🛠️ Freelance full-stack developer for **Metalixia** — sole developer on an employee management platform (backend, frontend, mobile, infra).
 - 🤖 Previously an **AI/ML Engineering Intern** at **Escorts Kubota Ltd**, building real-time defect detection for assembly lines.
-- 🎓 B.Tech in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
+- 🎓 B.Sc. in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
 - 💡 Into system design, backend architecture, and developer tooling.
 
 ---
@@ -92,11 +92,11 @@ Relevant coursework: DSA (C++), AI, ML, DL, Soft Computing, Kinematics of Roboti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshamgalyan&show_icons=true&theme=tokyonight" alt="Saksham's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshamgalyan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sakshamgalyan&show_icons=true&theme=tokyonight" alt="Saksham's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamgalyan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sakshamgalyan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
