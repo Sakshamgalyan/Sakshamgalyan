@@ -22,7 +22,7 @@ Backend-focused engineer with production experience shipping scalable APIs, real
 - 🔭 Currently an **SDE-1 (Full-Stack)** at **Paysecure**, Jaipur — building payment backends and ML-driven fraud detection.
 - 🛠️ Freelance full-stack developer for **Metalixia** — sole developer on an employee management platform (backend, frontend, mobile, infra).
 - 🤖 Previously an **AI/ML Engineering Intern** at **Escorts Kubota Ltd**, building real-time defect detection for assembly lines.
-- 🎓 B.Sc. in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
+- 🎓 B.Tech in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
 - 💡 Into system design, backend architecture, and developer tooling.
 
 ---
@@ -75,7 +75,7 @@ Backend-focused engineer with production experience shipping scalable APIs, real
 
 ## 🎓 Education
 
-**J.C. Bose University, YMCA** — B.Sc. in Robotics and Artificial Intelligence, *July 2025*, Faridabad
+**J.C. Bose University, YMCA** — B.Tech in Robotics and Artificial Intelligence, *July 2025*, Faridabad
 Relevant coursework: DSA (C++), AI, ML, DL, Soft Computing, Kinematics of Robotics
 
 ---
