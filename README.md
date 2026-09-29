@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Saksham</h1>
-<h3 align="center">SDE-1 — Full-Stack Engineer • Backend Engineer • AI/ML Integration • Production Deployment on AWS</h3>
+<h3 align="center">AI Engineer • Forward Deployed Engineer • Backend (NestJS/Node.js) • React.js/Next.js • AWS</h3>
 
 <p align="center">
   <a href="https://github.com/Sakshamgalyan">
@@ -17,66 +17,73 @@
 
 ## 🧑‍💻 About Me
 
-Backend-focused engineer with production experience shipping scalable APIs, real-time systems, and cloud infrastructure end-to-end. I've independently built and deployed full products — backend, mobile app, and infra — as a sole developer.
+AI Engineer and Forward Deployed Engineer focused on taking AI and software systems from prototype to production. I translate client and business requirements into deployed solutions, integrate ML models with production systems, build backend and frontend applications, and own technical delivery end-to-end.
 
-- 🔭 Currently an **SDE-1 (Full-Stack)** at **Paysecure**, Jaipur — building payment backends and ML-driven fraud detection.
-- 🛠️ Freelance full-stack developer for **Metalixia** — sole developer on an employee management platform (backend, frontend, mobile, infra).
-- 🤖 Previously an **AI/ML Engineering Intern** at **Escorts Kubota Ltd**, building real-time defect detection for assembly lines.
-- 🎓 B.Tech in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
-- 💡 Into system design, backend architecture, and developer tooling.
+- 🔭 Currently an **SDE-1 (AI-Leaning Full-Stack Engineer)** at **Paysecure**, Jaipur — integrating ML-driven fraud detection into payment backends and building developer-facing tooling.
+- 🛠️ **Forward Deployed / Full-Stack Engineer** for **Metalixia** — sole technical owner and client point of contact on an employee management platform, from requirements to production.
+- 🤖 Previously an **AI/ML Engineer** at **Escorts Kubota Ltd**, building and deploying real-time defect detection on an assembly line.
+- 🚀 Solo builder of **EasyLife**, a full-stack marketplace platform (Flutter, Next.js, NestJS, Spring Boot, PostgreSQL).
+- 🎓 B.Sc. in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
+- 🌐 Portfolio: [saksham.galyan.in](https://saksham.galyan.in)
 
 ---
 
 ## 🚀 Skills & Technologies
 
-**Backend:** `Node.js` `NestJS` `Express.js` `FastAPI` `REST APIs` `WebSockets (Socket.io)` `JWT` `OAuth2.0` `FFmpeg`
+**AI / ML:** `PyTorch` `TensorFlow` `OpenCV` `Computer Vision` `ML Model Integration` `Model Inference` `Edge Deployment`
 
-**Frontend:** `React.js` `Next.js` `TypeScript` `Docusaurus`
+**Backend:** `Python` `Node.js` `NestJS` `Express.js` `REST APIs` `WebSockets` `JWT` `OAuth 2.0` `Microservices` `Rate Limiting`
 
-**Databases:** `PostgreSQL` `MongoDB` `MySQL`
+**Frontend:** `React.js` `Next.js` `TypeScript` `Redux` `Component Libraries` `NPM Packages`
 
-**Languages:** `JavaScript` `TypeScript` `Python` `Dart` `C` `C++`
+**Data:** `PostgreSQL` `MongoDB` `MySQL` `Redis` `Schema Design` `Indexing` `Query Optimization`
 
-**DevOps / Cloud:** `AWS (EC2, S3, RDS)` `Docker` `CI/CD` `GitHub Actions` `Linux`
+**Deployment:** `Docker` `AWS` `Linux` `Nginx` `CI/CD` `PM2` `Production Deployment` `API Integration`
 
-**AI / ML:** `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `LLM Integration`
+**Languages:** `Python` `JavaScript` `TypeScript` `C` `C++` `Dart`
 
-**Concepts:** `System Design (HLD/LLD)` `DSA` `Multithreading` `Distributed Systems` `DBMS`
+**Engineering:** `System Design (HLD/LLD)` `DSA` `Distributed Systems` `Multithreading` `DBMS`
 
 ---
 
 ## 💼 Work Experience
 
-### 👨‍💻 SDE-1 (Full-Stack Engineer) @ Paysecure — *Apr 2025 – Present* | Jaipur
-- Engineered a production-grade IBAN payment backend with secure REST APIs, validation, and rate limiting for real-time transactions.
-- Integrated an ML-based fraud detection pipeline — 94.3% precision, 38% fewer fraudulent transactions, ~$12K/month saved in chargebacks.
-- Built the Merchant Guide developer docs portal (Docusaurus + React), cutting developer onboarding time by 30%.
-- Leading the core dashboard's TypeScript migration with unit tests and ESLint-enforced code quality.
+### 👨‍💻 SDE-1 (AI-Leaning Full-Stack Engineer) @ Paysecure — *Apr 2025 – Present* | Jaipur, Rajasthan
+- Integrated an ML-driven fraud detection model into the payment backend for real-time transaction decisioning.
+- Owned an IBAN payment workflow end-to-end with client engineering teams, covering secure APIs, orchestration, and validation for 4+ live flows/day.
+- Built a Next.js + OpenAPI developer portal for external partners, reducing onboarding time by 80%.
+- Published an NPM + Storybook React component library, leading migration of 5+ modules and reducing development time by 50%.
 
-### 🧩 Freelance Full-Stack Developer @ Metalixia — *Remote*
-- Sole developer: architected and shipped an internal employee management dashboard, owning backend, frontend, infra, and deployment — zero downtime since launch.
-- Built the NestJS REST API with RBAC for 6+ roles, JWT auth, and an optimized PostgreSQL schema.
-- Built a companion Flutter app consuming the same backend for a native-feel experience on iOS and Android.
+### 🧩 Forward Deployed Engineer / Full-Stack Engineer @ Metalixia — *Remote* | [dashboard.metalixia.com](https://dashboard.metalixia.com)
+- Served as the sole technical owner and client point of contact, delivering an end-to-end employee management platform from requirements to production.
+- Architected a NestJS REST API with RBAC across 6+ roles, JWT authentication, and optimized PostgreSQL schemas.
+- Built Next.js web and Flutter mobile applications, reusing shared backend services and business logic.
+- Owned production infrastructure and deployment using Linux, Nginx, Docker, Redis, PM2, CI/CD, and SSL.
 
-### 🔬 AI/ML Engineering Intern @ Escorts Kubota Ltd — *Jan 2025 – Apr 2025* | Faridabad
-- Built a real-time deep learning model for circlip defect detection on assembly lines (91.1% mAP), replacing manual QC and contributing 3L+ in cost savings.
-- Developed a PyQt5 GUI integrated with a Mitsubishi PLC via MC Protocol, with MySQL-based analytics logging.
-- Optimized the inference pipeline for edge deployment, hitting real-time assembly-line detection speeds.
+### 🔬 AI/ML Engineer @ Escorts Kubota Ltd — *Jan 2025 – Apr 2025* | Faridabad, Haryana
+- Developed a custom object detection model for real-time circlip inspection, achieving 91.1% mAP.
+- Collected and transformed production camera data into a clean, labeled dataset for model training.
+- Deployed the vision system on the assembly line, integrating ML inference with a Mitsubishi PLC via MC Protocol.
+- Built a PyQt5 + MySQL monitoring system and optimized inference for real-time edge deployment.
 
 ---
 
 ## 🌟 Featured Project
 
+**EasyLife — Marketplace Platform** — `Flutter` `Next.js` `NestJS` `Spring Boot` `PostgreSQL`
+- Built the full-stack marketplace platform as sole developer, owning Flutter, Next.js, NestJS BFF, Spring Boot, and PostgreSQL architecture.
+- Built a web-scraping and data processing pipeline to transform raw marketplace data into structured records, and designed an agentic onboarding flow to automate user setup.
+- Implemented RS256 JWT authentication with refresh-token rotation and family-based token theft detection.
+
 **[School Admin Dashboard](https://github.com/Sakshamgalyan/school-dashboard)** — `React.js` `Node.js` `Express.js` `MongoDB` `Next.js` `JWT` `FFmpeg`
-- Designed a secure 4-tier RBAC backend (Admin, Teacher, Student, Parent) with 20+ REST APIs for attendance, grading, and announcements.
-- Built a real-time FFmpeg (HLS) video streaming pipeline for live classes and playback with Socket.io push notifications — zero third-party services.
+- 4-tier RBAC backend (Admin, Teacher, Student, Parent) with 20+ REST APIs, plus a real-time FFmpeg (HLS) streaming pipeline with Socket.io notifications.
 
 ---
 
 ## 🎓 Education
 
-**J.C. Bose University, YMCA** — B.Tech in Robotics and Artificial Intelligence, *July 2025*, Faridabad
-Relevant coursework: DSA (C++), AI, ML, DL, Soft Computing, Kinematics of Robotics
+**J.C. Bose University, YMCA** — B.Sc. in Robotics and Artificial Intelligence, *July 2025*, Faridabad, Haryana
+Relevant coursework: DSA (C++), AI, ML, Deep Learning, Soft Computing, Kinematics of Robotics
 
 ---
 
@@ -85,6 +92,7 @@ Relevant coursework: DSA (C++), AI, ML, DL, Soft Computing, Kinematics of Roboti
 - 📧 Email: [saksham4503@gmail.com](mailto:saksham4503@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/sakshamgalyan](https://www.linkedin.com/in/sakshamgalyan)
 - 💻 GitHub: [github.com/Sakshamgalyan](https://github.com/Sakshamgalyan)
+- 🌐 Portfolio: [saksham.galyan.in](https://saksham.galyan.in)
 - 🧩 LeetCode: [leetcode.com/u/SakshamGalyan](https://leetcode.com/u/SakshamGalyan/)
 
 ---
@@ -101,4 +109,4 @@ Relevant coursework: DSA (C++), AI, ML, DL, Soft Computing, Kinematics of Roboti
 
 ---
 
-<p align="center"><i>Building backend systems, shipping products end-to-end, and always down to talk system design.</i></p>
+<p align="center"><i>Taking AI and software systems from prototype to production, and always down to talk system design.</i></p>
