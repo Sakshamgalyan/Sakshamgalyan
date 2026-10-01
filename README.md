@@ -23,7 +23,7 @@ AI Engineer and Forward Deployed Engineer focused on taking AI and software syst
 - 🛠️ **Forward Deployed / Full-Stack Engineer** for **Metalixia** — sole technical owner and client point of contact on an employee management platform, from requirements to production.
 - 🤖 Previously an **AI/ML Engineer** at **Escorts Kubota Ltd**, building and deploying real-time defect detection on an assembly line.
 - 🚀 Solo builder of **EasyLife**, a full-stack marketplace platform (Flutter, Next.js, NestJS, Spring Boot, PostgreSQL).
-- 🎓 B.Sc. in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
+- 🎓 B.Tech. in Robotics & Artificial Intelligence, J.C. Bose University, YMCA.
 - 🌐 Portfolio: [saksham.galyan.in](https://saksham.galyan.in)
 
 ---
